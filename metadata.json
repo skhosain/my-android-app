@@ -1,0 +1,6 @@
+{
+  "name": "Hosain 11",
+  "description": "Premium Earning, Referral & Wallet Platform with verified deposits, transparent task rewards, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
